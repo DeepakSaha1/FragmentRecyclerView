@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FragmentRecyclerView</string>
+    <string name="forgot_pass">Forgot Password?</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="foodie_app">Foodie App</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="ice_cream_sundae">Ice Cream Sundae huihih</string>
+    <string name="restaurant_address">145, Mall of India</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="food_image_icon">food image icon</string>
+    <string name="reviews">520 reviews</string>
+    <string name="date">01 Mar 2019 11:30AM</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
